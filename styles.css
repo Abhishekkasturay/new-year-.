@@ -1,0 +1,9 @@
+.resizable {
+  resize: both;
+  /* overflow: auto; */
+}
+
+.draggable {
+  position: absolute;
+  cursor: grab;
+}
